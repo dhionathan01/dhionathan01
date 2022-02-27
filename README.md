@@ -1,14 +1,4 @@
 # Olá, meu nome é Dhionathan :octocat:
-
-<a href="https://github.com/dhionathan01">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhionathan01&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionathan01&layout=compact&langs_count=7&theme=nord"/>
-<img alt="Dhionathan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhionathan01&bg_color=1c292E&color=61C8FF&line=66DBFF&point=FFFFFF&hide_border=true" />
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dhionathan01)](https://github.com/dhionathan01)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)](https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/dhionathan.jobim)
-
 ### Sobre mim
 Atualmente faço graduação de Análise desenvolvimento de sistemas na Universidade Estácio, e faço cursos de programação e outras coisas relacionadas a area de Ti em paralelo.
 
@@ -28,3 +18,14 @@ Atualmente faço graduação de Análise desenvolvimento de sistemas na Universi
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9e7e15?style=flat-square&logo=javascript)
+
+<a href="https://github.com/dhionathan01">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhionathan01&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionathan01&layout=compact&langs_count=7&theme=nord"/>
+<img alt="Dhionathan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhionathan01&bg_color=1c292E&color=61C8FF&line=66DBFF&point=FFFFFF&hide_border=true" />
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dhionathan01)](https://github.com/dhionathan01)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)](https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/dhionathan.jobim)
+
+
