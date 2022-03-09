@@ -1,4 +1,8 @@
 # Olá, meu nome é Dhionathan :octocat:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dhionathan01)](https://github.com/dhionathan01)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)](https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/dhionathan.jobim)
+
 ### Sobre mim
 Atualmente faço graduação de Análise desenvolvimento de sistemas na Universidade Estácio, e faço cursos de programação e outras coisas relacionadas a area de Ti em paralelo.
 
@@ -24,8 +28,5 @@ Atualmente faço graduação de Análise desenvolvimento de sistemas na Universi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionathan01&layout=compact&langs_count=7&theme=nord"/>
 <img alt="Dhionathan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhionathan01&bg_color=1c292E&color=61C8FF&line=66DBFF&point=FFFFFF&hide_border=true" />
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dhionathan01)](https://github.com/dhionathan01)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)](https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/dhionathan.jobim)
 
 
