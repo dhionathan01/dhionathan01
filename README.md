@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/dhionathan.jobim)
 
 ### Sobre mim
-* Faço parte do time de desenvolvimento na  <a href="https://www.extranet.com.br/" target="_blank" >Franquia Extranet</a> atuo na parte de Front e Back End.
+* Faço parte do time de desenvolvimento na  <a href="https://www.extranet.com.br/" target="_blank" rel="noopener noreferrer" >Franquia Extranet</a> atuo na parte de Front e Back End.
 * Atualmente faço graduação de Análise desenvolvimento de sistemas na Universidade Estácio, e faço cursos de programação e outras coisas relacionadas a area de Ti em paralelo.
 
 - :bulb: No Momento Estou estudando Desenvolvimento web e Python
