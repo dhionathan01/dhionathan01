@@ -27,7 +27,9 @@
 <a href="https://github.com/dhionathan01">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhionathan01&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhionathan01&size_weight=0&count_weight=1&layout=compact&langs_count=7&theme=nord"/>
-<img width="100%" alt="Dhionathan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dhionathan01&theme=dracula" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhionathan01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
