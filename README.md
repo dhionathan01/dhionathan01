@@ -11,7 +11,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C++](https://img.shields.io/badge/-C,%20C%2B%2B-54778c?style=flat-square&logo=c%2B%2B)
 ![Django](https://img.shields.io/badge/Django-109934?style=flat-square&logo=django)
-<br>
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-MySQL-0c0c0c?style=flat-square&logo=mysql)
 ![AWS](https://img.shields.io/badge/AWS-0c0c0c?style=flat-square&logo=amazon)
