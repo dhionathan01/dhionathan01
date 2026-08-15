@@ -25,5 +25,5 @@
 
 <a href="https://github.com/dhionathan01"></a>
 <img height="180em" src="https://github-readme-stats-henna-five-54.vercel.app/api?username=dhionathan01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats-henna-five-54.vercel.app)/api/top-langs/?username=dhionathan01&size_weight=0&count_weight=1&layout=compact&langs_count=7&theme=nord&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-henna-five-54.vercel.app/api/top-langs/?username=dhionathan01&size_weight=0&count_weight=1&layout=compact&langs_count=7&theme=nord&cache_seconds=86400"/>
 
