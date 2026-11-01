@@ -1,8 +1,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)](https://www.linkedin.com/in/dhionathan-jobim-19905b1a4/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue)](https://www.facebook.com/dhionathan.jobim)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green)](https://wa.me/5532998371783)
+## <a href="https://www.extranet.com.br/" target="_blank" rel="noopener noreferrer" > Engenheiro de Software e Dados 
+<img width="1380" height="380" alt="assinatura_dhionathan_jobim_1380px" src="https://github.com/user-attachments/assets/782e820c-78c1-4b42-80bd-13cc3e05129d" />
+</a>
 
-##   <a href="https://www.extranet.com.br/" target="_blank" rel="noopener noreferrer" > Desenvolvedor Full-Stack Franquia Extranet </a>.
+
+
+##   <a href="https://www.extranet.com.br/" target="_blank" rel="noopener noreferrer" > Desenvolvedor Full-Stack Franquia Extranet - 2022/2026 </a>.
 <img width="1200" height="340" alt="Dhionathan2x (2)" src="https://github.com/user-attachments/assets/136a4aab-2927-48b9-9a08-17faee06f11b" />
 
 * Graduado em Análise e Desenvolvimento de Sistemas.
